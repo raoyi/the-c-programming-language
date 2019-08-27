@@ -1,5 +1,5 @@
-# The C programming language (Second Edition) exercise answers
-# C 程序设计语言（第2版）习题答案
+# The C programming language (Second Edition) codes
+# C 程序设计语言（第2版）代码
 
 If it is helpful, please `watch` or `star` this repo.
 
